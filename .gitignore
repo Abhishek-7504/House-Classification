@@ -1,0 +1,7 @@
+# Ignore large files
+*.bin
+*.safetensors
+*.h5
+
+__pycache__/
+*.pyc
